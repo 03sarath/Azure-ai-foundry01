@@ -12,3 +12,8 @@ az version
 az login 
 
 ```
+
+If using Azure VS Code container
+```
+az login --use-device-code
+```
